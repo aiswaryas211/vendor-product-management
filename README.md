@@ -50,12 +50,6 @@ The system ensures proper authentication and data isolation per vendor.
 
 ---
 
-## Note on Frontend
-
-The original requirement specified **Next.js**.
-This implementation uses **React** while maintaining all required functionality, including authentication and API integration.
-
----
 
 ## Project Structure
 
