@@ -141,7 +141,7 @@ npm start
 <img src="screenshots/dashboard.png" width="800"/>
 
 ### Create Product
-<img src="screenshots/create-product.png" width="800"/>
+<img src="screenshots/create_product.png" width="800"/>
 ## Future Improvements
 
 * Role-based access (Admin / Vendor)
